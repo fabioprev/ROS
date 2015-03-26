@@ -1,0 +1,18 @@
+[submodule "Coordinator"]
+	path = Coordinator
+	url = https://github.com/fabioprev/Coordinator.git
+[submodule "StageEnvironments"]
+	path = StageEnvironments
+	url = https://github.com/fabioprev/StageEnvironments.git
+[submodule "PTrackerROS"]
+	path = PTrackerROS
+	url = https://github.com/fabioprev/PTrackerROS.git
+[submodule "PTrackingBridge"]
+	path = PTrackingBridge
+	url = https://github.com/fabioprev/PTrackingBridge.git
+[submodule "LaserScanDetector"]
+	path = LaserScanDetector
+	url = https://github.com/fabioprev/LaserScanDetector.git
+[submodule "WaypointNavigation"]
+	path = WaypointNavigation
+	url = https://github.com/fabioprev/WaypointNavigation.git
